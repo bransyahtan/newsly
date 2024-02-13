@@ -1,7 +1,3 @@
 export const Navbar = () => {
-  return (
-    <div>
-      <p>ini navbar</p>
-    </div>
-  );
+  return <header className="bg-red-600 w-full">laal</header>;
 };
