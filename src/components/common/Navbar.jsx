@@ -1,7 +1,7 @@
 export const Navbar = () => {
   return (
     <div>
-      <p>ini nav</p>
+      <p>ini navbar</p>
     </div>
   );
 };
